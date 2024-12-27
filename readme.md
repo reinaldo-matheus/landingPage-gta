@@ -15,13 +15,11 @@ Como utilizar:
 
 Para visualizar a landing page, abra o arquivo index.html em seu navegador.
 
-**Contribuições:
-
-Contribuições são bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra uma issue ou faça um pull request.
 
 **Um pouquinho sobre mim:
-Meu nome é Matheus, me apaixonei pela programação de uma maneira meio que geral, o fato de poder criar interfaces intuitivas e esteticamente agradáveis, desenvolver a iteratividade da página , enfim ... o fato de poder criar tudo isso é muito fascinante, apesar de algumas vezes querer arrancar os cabelos por conta de algum bug ou a falta de algum santo ";" kkkk. Estou no começo da minha jornada DEV e estes pequenos projetos são minha singela forma de aprimorar meus conhecimentos nas linguagens que estudei até aqui. 
-Sendo assim, agradeço pela sua leitura até aqui, e é claro ... 
+
+Meu nome é Matheus, e me apaixonei pela programação de uma maneira meio que de maneira geral, o fato de poder criar interfaces intuitivas e esteticamente agradáveis, desenvolver a iteratividade da página , o amável back end enfim ... o fato de poder criar tudo isso é fascinante, apesar de algumas vezes querer arrancar os cabelos por conta de algum bug ou a falta de algum santo ";" kkkk. Estou no começo da minha jornada DEV e estes pequenos projetos são minha singela forma de aprimorar meus conhecimentos nas linguagens que estudei até aqui. 
+sendo assim, agradeço pela sua leitura até aqui, e é claro ... 
 Contribuições são sempre bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra uma issue ou faça um pull request, vlw!
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26B.svg?style=for-the-badge&logo=html5&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTML)
