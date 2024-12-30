@@ -1,16 +1,20 @@
 # Landing Page GTA
 
-**Descrição:
+** Descrição:
 
 Este projeto é um clone da página de apresentação dos jogos GTA 5 e GTA Online, desenvolvido pela Rockstar Games. O objetivo principal foi colocar em prática meus conhecimentos em HTML, CSS e JavaScript, recriando a estética e a interatividade da página original.
 
-**Tecnologias Utilizadas:
+** Tecnologias Utilizadas:
 
 HTML: Estrutura da página.
+
 CSS: Estilização visual da página.
+
 JavaScript: Interações e animações. 
 
 Abra o projeto em seu editor de código preferido.
+
+
 Como utilizar:
 
 Para visualizar a landing page, abra o arquivo index.html em seu navegador.
@@ -18,7 +22,7 @@ Para visualizar a landing page, abra o arquivo index.html em seu navegador.
 
 **Um pouquinho sobre mim:
 
-Meu nome é Matheus, e me apaixonei pela programação de uma maneira meio que de maneira geral, o fato de poder criar interfaces intuitivas e esteticamente agradáveis, desenvolver a iteratividade da página , o amável back end enfim ... o fato de poder criar tudo isso é fascinante, apesar de algumas vezes querer arrancar os cabelos por conta de algum bug ou a falta de algum santo ";" kkkk. Estou no começo da minha jornada DEV e estes pequenos projetos são minha singela forma de aprimorar meus conhecimentos nas linguagens que estudei até aqui. 
+Meu nome é Matheus, e me apaixonei pela programação de uma maneira meio que geral, o fato de poder criar interfaces intuitivas e esteticamente agradáveis, desenvolver a iteratividade da página , o amável back end enfim ... o fato de poder criar tudo isso é fascinante, apesar de algumas vezes querer arrancar os cabelos por conta de algum bug ou a falta de algum santo ";" kkkk. Estou no começo da minha jornada DEV e estes pequenos projetos são minha singela forma de aprimorar meus conhecimentos nas linguagens que estudei até aqui. 
 sendo assim, agradeço pela sua leitura até aqui, e é claro ... 
 Contribuições são sempre bem-vindas! Se você encontrar algum bug ou tiver alguma sugestão, por favor, abra uma issue ou faça um pull request, vlw!
 
